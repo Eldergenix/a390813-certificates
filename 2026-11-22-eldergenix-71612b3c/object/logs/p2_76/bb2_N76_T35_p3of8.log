@@ -1,0 +1,24 @@
+# start Sun Nov 22 16:36:32 UTC 2026 cmd: ./bb2 76 35 8 8 3 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35 
+progress nodes=16777216 k=38 c=16 t=50s
+progress nodes=33554432 k=38 c=16 t=98s
+progress nodes=50331648 k=47 c=14 t=148s
+progress nodes=67108864 k=40 c=16 t=192s
+progress nodes=83886080 k=48 c=18 t=233s
+progress nodes=100663296 k=41 c=16 t=271s
+progress nodes=117440512 k=45 c=14 t=309s
+progress nodes=134217728 k=44 c=12 t=348s
+progress nodes=150994944 k=38 c=14 t=388s
+progress nodes=167772160 k=44 c=14 t=426s
+progress nodes=184549376 k=39 c=14 t=465s
+progress nodes=201326592 k=45 c=14 t=504s
+progress nodes=218103808 k=41 c=14 t=543s
+progress nodes=234881024 k=42 c=14 t=581s
+progress nodes=251658240 k=40 c=14 t=618s
+progress nodes=268435456 k=37 c=14 t=656s
+progress nodes=285212672 k=38 c=16 t=694s
+progress nodes=301989888 k=46 c=14 t=732s
+progress nodes=318767104 k=38 c=14 t=770s
+progress nodes=335544320 k=42 c=12 t=813s
+supports=901 triples=24 quads=877 nonminimal_pairs=0
+EXHAUSTED N=76 T=35 split=8 parts=8 part=3 nodes=338257049 leaves_at_split=212 time=820s
+# exit=0 end Sun Nov 22 16:50:13 UTC 2026

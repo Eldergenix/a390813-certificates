@@ -1,0 +1,7 @@
+# start Sun Nov 22 18:01:54 UTC 2026 cmd: ./bb2 72 34 8 8 1 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 
+progress nodes=16777216 k=41 c=14 t=84s
+progress nodes=33554432 k=44 c=12 t=149s
+progress nodes=50331648 k=39 c=16 t=187s
+supports=785 triples=23 quads=762 nonminimal_pairs=0
+EXHAUSTED N=72 T=34 split=8 parts=8 part=1 nodes=53953535 leaves_at_split=169 time=194s
+# exit=0 end Sun Nov 22 18:05:08 UTC 2026

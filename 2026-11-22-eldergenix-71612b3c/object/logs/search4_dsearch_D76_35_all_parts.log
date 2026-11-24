@@ -1,0 +1,1120 @@
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=0 pid=4776 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=12150686
+EXHAUSTED part 0/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=1 pid=6806 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=10037101
+EXHAUSTED part 1/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=2 pid=8865 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=10660417
+EXHAUSTED part 2/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=3 pid=11347 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=8916018
+EXHAUSTED part 3/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=4 pid=13405 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=8603167
+EXHAUSTED part 4/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=5 pid=15342 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6507564
+EXHAUSTED part 5/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=6 pid=16783 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5788476
+EXHAUSTED part 6/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=7 pid=19082 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=7992183
+EXHAUSTED part 7/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=8 pid=20966 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=8116198
+EXHAUSTED part 8/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=9 pid=22306 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6030247
+EXHAUSTED part 9/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=10 pid=22698 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5637844
+EXHAUSTED part 10/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=11 pid=23219 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5393304
+EXHAUSTED part 11/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=12 pid=24476 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5399488
+EXHAUSTED part 12/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=13 pid=26155 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6427872
+EXHAUSTED part 13/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=14 pid=26942 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=9633700
+EXHAUSTED part 14/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=15 pid=27844 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=8967866
+EXHAUSTED part 15/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=16 pid=29277 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6892332
+EXHAUSTED part 16/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=17 pid=32744 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5587964
+EXHAUSTED part 17/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=18 pid=33980 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5377194
+EXHAUSTED part 18/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=19 pid=34418 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=7607570
+EXHAUSTED part 19/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=20 pid=36349 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6337313
+EXHAUSTED part 20/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=21 pid=37180 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5467158
+EXHAUSTED part 21/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=22 pid=38183 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6635284
+EXHAUSTED part 22/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=23 pid=39011 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4476694
+EXHAUSTED part 23/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=24 pid=39331 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6120683
+EXHAUSTED part 24/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=25 pid=41133 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5729981
+EXHAUSTED part 25/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=26 pid=41147 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4775585
+EXHAUSTED part 26/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=27 pid=42417 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=7703214
+EXHAUSTED part 27/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=28 pid=43156 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=7092414
+EXHAUSTED part 28/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=29 pid=43394 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4798638
+EXHAUSTED part 29/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=30 pid=44837 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4516894
+EXHAUSTED part 30/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=31 pid=45034 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6509267
+EXHAUSTED part 31/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=32 pid=45428 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5413575
+EXHAUSTED part 32/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=33 pid=46331 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5140620
+EXHAUSTED part 33/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=34 pid=47144 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=3923200
+EXHAUSTED part 34/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=35 pid=47201 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=3768814
+EXHAUSTED part 35/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=36 pid=47937 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=8781460
+EXHAUSTED part 36/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=37 pid=48382 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6420335
+EXHAUSTED part 37/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=38 pid=48428 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6950309
+EXHAUSTED part 38/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=39 pid=51771 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=8583737
+EXHAUSTED part 39/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=40 pid=51955 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=7126401
+EXHAUSTED part 40/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=41 pid=52104 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=8433469
+EXHAUSTED part 41/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=42 pid=53515 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=8459936
+EXHAUSTED part 42/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=43 pid=54415 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5167859
+EXHAUSTED part 43/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=44 pid=54581 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4774063
+EXHAUSTED part 44/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=45 pid=54886 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4087688
+EXHAUSTED part 45/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=46 pid=56054 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5157062
+EXHAUSTED part 46/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=47 pid=56135 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=7476191
+EXHAUSTED part 47/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=48 pid=56187 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=8762432
+EXHAUSTED part 48/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=49 pid=56307 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6560851
+EXHAUSTED part 49/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=50 pid=58769 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=9623435
+EXHAUSTED part 50/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=51 pid=59387 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6643601
+EXHAUSTED part 51/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=52 pid=59614 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6613249
+EXHAUSTED part 52/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=53 pid=59922 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6150239
+EXHAUSTED part 53/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=54 pid=61044 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4659594
+EXHAUSTED part 54/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=55 pid=61153 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4322863
+EXHAUSTED part 55/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=56 pid=61242 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6369089
+EXHAUSTED part 56/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=57 pid=61402 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6573655
+EXHAUSTED part 57/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=58 pid=61924 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5074290
+EXHAUSTED part 58/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=59 pid=61967 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5898545
+EXHAUSTED part 59/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=60 pid=62516 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5112509
+EXHAUSTED part 60/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=61 pid=62742 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5672036
+EXHAUSTED part 61/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=62 pid=63100 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=8130657
+EXHAUSTED part 62/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=63 pid=63280 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4655642
+EXHAUSTED part 63/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=64 pid=63611 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4860844
+EXHAUSTED part 64/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=65 pid=64053 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4597288
+EXHAUSTED part 65/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=66 pid=64417 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5416648
+EXHAUSTED part 66/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=67 pid=65224 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5840804
+EXHAUSTED part 67/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=68 pid=65464 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5538161
+EXHAUSTED part 68/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=69 pid=65711 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6827155
+EXHAUSTED part 69/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=70 pid=66133 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5408422
+EXHAUSTED part 70/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=71 pid=67071 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5376530
+EXHAUSTED part 71/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=72 pid=67208 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=7887538
+EXHAUSTED part 72/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=73 pid=67838 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=9255161
+EXHAUSTED part 73/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=74 pid=67940 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6978641
+EXHAUSTED part 74/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=75 pid=68429 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=7128703
+EXHAUSTED part 75/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=76 pid=69497 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4236247
+EXHAUSTED part 76/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=77 pid=70089 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4049351
+EXHAUSTED part 77/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=78 pid=70505 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=3087120
+EXHAUSTED part 78/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=79 pid=70694 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4505609
+EXHAUSTED part 79/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=80 pid=70804 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=3893099
+EXHAUSTED part 80/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=81 pid=71779 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6242739
+EXHAUSTED part 81/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=82 pid=72034 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5403707
+EXHAUSTED part 82/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=83 pid=72821 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6116064
+EXHAUSTED part 83/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=84 pid=72927 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=11189534
+EXHAUSTED part 84/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=85 pid=74641 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=8975258
+EXHAUSTED part 85/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=86 pid=74717 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6035210
+EXHAUSTED part 86/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=87 pid=75272 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6522195
+EXHAUSTED part 87/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=88 pid=76629 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5462669
+EXHAUSTED part 88/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=89 pid=76950 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5489062
+EXHAUSTED part 89/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=90 pid=77319 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6823469
+EXHAUSTED part 90/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=91 pid=77339 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5818824
+EXHAUSTED part 91/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=92 pid=77633 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6851777
+EXHAUSTED part 92/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=93 pid=77735 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4863027
+EXHAUSTED part 93/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=94 pid=77957 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4980282
+EXHAUSTED part 94/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=95 pid=78019 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=9239928
+EXHAUSTED part 95/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=96 pid=78167 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5229957
+EXHAUSTED part 96/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=97 pid=78270 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4357834
+EXHAUSTED part 97/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=98 pid=78451 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=3412095
+EXHAUSTED part 98/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=99 pid=78714 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4107679
+EXHAUSTED part 99/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=100 pid=78791 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6757244
+EXHAUSTED part 100/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=101 pid=78858 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6376128
+EXHAUSTED part 101/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=102 pid=78884 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5770939
+EXHAUSTED part 102/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=103 pid=79109 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4477257
+EXHAUSTED part 103/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=104 pid=79309 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=11115046
+EXHAUSTED part 104/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=105 pid=79402 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=8837808
+EXHAUSTED part 105/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=106 pid=79422 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=12541474
+EXHAUSTED part 106/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=107 pid=79508 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=9185202
+EXHAUSTED part 107/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=108 pid=80117 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6228709
+EXHAUSTED part 108/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=109 pid=80306 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6008193
+EXHAUSTED part 109/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=110 pid=80322 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=8078069
+EXHAUSTED part 110/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=111 pid=80527 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6351939
+EXHAUSTED part 111/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=112 pid=80835 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5879409
+EXHAUSTED part 112/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=113 pid=80940 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5438673
+EXHAUSTED part 113/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=114 pid=81185 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5196487
+EXHAUSTED part 114/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=115 pid=81260 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5113691
+EXHAUSTED part 115/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=116 pid=81715 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4553005
+EXHAUSTED part 116/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=117 pid=81801 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=7105337
+EXHAUSTED part 117/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=118 pid=82309 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=14401315
+EXHAUSTED part 118/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=119 pid=82515 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=9509369
+EXHAUSTED part 119/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=120 pid=82735 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=7348109
+EXHAUSTED part 120/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=121 pid=83025 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4864832
+EXHAUSTED part 121/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=122 pid=83839 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4221628
+EXHAUSTED part 122/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=123 pid=83851 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5676003
+EXHAUSTED part 123/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=124 pid=83875 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4693795
+EXHAUSTED part 124/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=125 pid=84450 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4762132
+EXHAUSTED part 125/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=126 pid=84483 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4183896
+EXHAUSTED part 126/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=127 pid=84493 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6096281
+EXHAUSTED part 127/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=128 pid=84568 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6086646
+EXHAUSTED part 128/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=129 pid=84741 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=12772277
+EXHAUSTED part 129/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=130 pid=84895 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=11090071
+EXHAUSTED part 130/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=131 pid=85002 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=8191383
+EXHAUSTED part 131/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=132 pid=85123 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6983278
+EXHAUSTED part 132/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=133 pid=85817 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5282678
+EXHAUSTED part 133/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=134 pid=85853 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6507881
+EXHAUSTED part 134/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=135 pid=86048 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=7812020
+EXHAUSTED part 135/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=136 pid=86068 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6327212
+EXHAUSTED part 136/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=137 pid=86286 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6767672
+EXHAUSTED part 137/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=138 pid=86543 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5655388
+EXHAUSTED part 138/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=139 pid=86687 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6086644
+EXHAUSTED part 139/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=140 pid=86775 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=8064169
+EXHAUSTED part 140/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=141 pid=86960 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=7289415
+EXHAUSTED part 141/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=142 pid=87073 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4642910
+EXHAUSTED part 142/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=143 pid=87289 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5644427
+EXHAUSTED part 143/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=144 pid=87651 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5961099
+EXHAUSTED part 144/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=145 pid=87831 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4549235
+EXHAUSTED part 145/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=146 pid=88072 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6810002
+EXHAUSTED part 146/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=147 pid=88252 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6507364
+EXHAUSTED part 147/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=148 pid=88657 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=7822658
+EXHAUSTED part 148/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=149 pid=88781 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=13157997
+EXHAUSTED part 149/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=150 pid=89047 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=10702130
+EXHAUSTED part 150/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=151 pid=89185 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=9313920
+EXHAUSTED part 151/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=152 pid=89742 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=7069355
+EXHAUSTED part 152/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=153 pid=90218 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5783666
+EXHAUSTED part 153/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=154 pid=90242 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6693829
+EXHAUSTED part 154/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=155 pid=90245 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5606813
+EXHAUSTED part 155/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=156 pid=90617 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4822249
+EXHAUSTED part 156/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=157 pid=90963 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=7255447
+EXHAUSTED part 157/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=158 pid=91163 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6527575
+EXHAUSTED part 158/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=159 pid=91395 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=7525698
+EXHAUSTED part 159/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=160 pid=91454 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=8634804
+EXHAUSTED part 160/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=161 pid=92049 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=7011821
+EXHAUSTED part 161/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=162 pid=92060 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6875065
+EXHAUSTED part 162/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=163 pid=92240 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=7239401
+EXHAUSTED part 163/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=164 pid=92346 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5429375
+EXHAUSTED part 164/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=165 pid=92700 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4483557
+EXHAUSTED part 165/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=166 pid=92711 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4580179
+EXHAUSTED part 166/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=167 pid=92816 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6752576
+EXHAUSTED part 167/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=168 pid=92933 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6896262
+EXHAUSTED part 168/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=169 pid=93096 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6981199
+EXHAUSTED part 169/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=170 pid=93110 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6722791
+EXHAUSTED part 170/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=171 pid=93388 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=7023936
+EXHAUSTED part 171/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=172 pid=93487 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5324294
+EXHAUSTED part 172/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=173 pid=93747 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4023283
+EXHAUSTED part 173/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=174 pid=93760 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5929354
+EXHAUSTED part 174/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=175 pid=94050 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4875966
+EXHAUSTED part 175/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=176 pid=94151 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6383958
+EXHAUSTED part 176/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=177 pid=94157 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4823096
+EXHAUSTED part 177/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=178 pid=94308 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=3787372
+EXHAUSTED part 178/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=179 pid=94514 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=3991723
+EXHAUSTED part 179/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=180 pid=94650 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=3951660
+EXHAUSTED part 180/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=181 pid=94756 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5213269
+EXHAUSTED part 181/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=182 pid=94840 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6252774
+EXHAUSTED part 182/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=183 pid=95066 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=10575993
+EXHAUSTED part 183/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=184 pid=95109 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=7717227
+EXHAUSTED part 184/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=185 pid=95401 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=7261045
+EXHAUSTED part 185/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=186 pid=95753 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5343887
+EXHAUSTED part 186/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=187 pid=96147 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5157294
+EXHAUSTED part 187/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=188 pid=96412 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5395141
+EXHAUSTED part 188/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=189 pid=96480 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4304607
+EXHAUSTED part 189/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=190 pid=96514 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5076313
+EXHAUSTED part 190/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=191 pid=96737 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4616628
+EXHAUSTED part 191/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=192 pid=96888 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5255920
+EXHAUSTED part 192/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=193 pid=96973 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4358107
+EXHAUSTED part 193/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=194 pid=97026 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=8318875
+EXHAUSTED part 194/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=195 pid=97290 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=9945344
+EXHAUSTED part 195/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=196 pid=97707 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=8210303
+EXHAUSTED part 196/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=197 pid=97729 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=13173015
+EXHAUSTED part 197/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=198 pid=98038 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=12053650
+EXHAUSTED part 198/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=199 pid=98315 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=8983927
+EXHAUSTED part 199/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=200 pid=98394 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=7282138
+EXHAUSTED part 200/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=201 pid=99162 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5777210
+EXHAUSTED part 201/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=202 pid=99575 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6769844
+EXHAUSTED part 202/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=203 pid=99648 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5836844
+EXHAUSTED part 203/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=204 pid=99689 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5289575
+EXHAUSTED part 204/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=205 pid=197 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6063040
+EXHAUSTED part 205/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=206 pid=624 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=8144898
+EXHAUSTED part 206/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=207 pid=658 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6330917
+EXHAUSTED part 207/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=208 pid=691 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5081519
+EXHAUSTED part 208/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=209 pid=1096 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6755796
+EXHAUSTED part 209/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=210 pid=1434 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=9613981
+EXHAUSTED part 210/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=211 pid=1676 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=13070941
+EXHAUSTED part 211/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=212 pid=2115 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=9822530
+EXHAUSTED part 212/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=213 pid=2445 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=8467301
+EXHAUSTED part 213/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=214 pid=3212 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=8874679
+EXHAUSTED part 214/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=215 pid=3427 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=7071684
+EXHAUSTED part 215/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=216 pid=3433 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5850369
+EXHAUSTED part 216/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=217 pid=3546 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6919717
+EXHAUSTED part 217/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=218 pid=4076 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4068507
+EXHAUSTED part 218/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=219 pid=4098 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4895711
+EXHAUSTED part 219/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=220 pid=4284 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6752222
+EXHAUSTED part 220/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=221 pid=4440 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5584079
+EXHAUSTED part 221/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=222 pid=4617 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=11286123
+EXHAUSTED part 222/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=223 pid=4787 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=9986874
+EXHAUSTED part 223/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=224 pid=5162 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6938421
+EXHAUSTED part 224/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=225 pid=5291 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=6905074
+EXHAUSTED part 225/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=226 pid=6055 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=5083288
+EXHAUSTED part 226/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=227 pid=6138 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4259805
+EXHAUSTED part 227/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=228 pid=6209 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4437304
+EXHAUSTED part 228/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=229 pid=6225 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4366511
+EXHAUSTED part 229/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=230 pid=6663 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=127 top_nodes=9524 nodes=4797764
+EXHAUSTED part 230/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=231 pid=6675 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=8881769
+EXHAUSTED part 231/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=232 pid=6705 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=9451731
+EXHAUSTED part 232/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=233 pid=6725 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=11171181
+EXHAUSTED part 233/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=234 pid=7235 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=7659724
+EXHAUSTED part 234/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=235 pid=7757 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=5430354
+EXHAUSTED part 235/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=236 pid=7857 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=7653635
+EXHAUSTED part 236/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=237 pid=7982 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=5576537
+EXHAUSTED part 237/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=238 pid=8117 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=5639335
+EXHAUSTED part 238/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=239 pid=8282 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=6803653
+EXHAUSTED part 239/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=240 pid=8605 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=7237834
+EXHAUSTED part 240/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=241 pid=8608 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=7077358
+EXHAUSTED part 241/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=242 pid=8724 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=5392711
+EXHAUSTED part 242/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=243 pid=9295 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=6166665
+EXHAUSTED part 243/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=244 pid=9666 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=9089099
+EXHAUSTED part 244/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=245 pid=9875 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=7213420
+EXHAUSTED part 245/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=246 pid=9928 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=9516320
+EXHAUSTED part 246/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=247 pid=10871 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=6532591
+EXHAUSTED part 247/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=248 pid=11954 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=8464106
+EXHAUSTED part 248/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=249 pid=12158 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=8754007
+EXHAUSTED part 249/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=250 pid=12370 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=8610352
+EXHAUSTED part 250/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=251 pid=12397 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=7303339
+EXHAUSTED part 251/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=252 pid=13465 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=6063865
+EXHAUSTED part 252/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=253 pid=13640 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=4310786
+EXHAUSTED part 253/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=254 pid=13708 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=4514827
+EXHAUSTED part 254/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=255 pid=13831 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=5024811
+EXHAUSTED part 255/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=256 pid=14198 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=7854685
+EXHAUSTED part 256/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=257 pid=14245 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=7973346
+EXHAUSTED part 257/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=258 pid=14278 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=8216263
+EXHAUSTED part 258/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=259 pid=14381 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=10762504
+EXHAUSTED part 259/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=260 pid=14920 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=9051494
+EXHAUSTED part 260/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=261 pid=14975 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=6648913
+EXHAUSTED part 261/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=262 pid=15036 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=5348992
+EXHAUSTED part 262/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=263 pid=15401 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=5767646
+EXHAUSTED part 263/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=264 pid=15707 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=4959855
+EXHAUSTED part 264/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=265 pid=15850 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=8033673
+EXHAUSTED part 265/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=266 pid=15984 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=6663489
+EXHAUSTED part 266/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=267 pid=16236 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=9333645
+EXHAUSTED part 267/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=268 pid=16339 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=8277298
+EXHAUSTED part 268/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=269 pid=16723 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=7033536
+EXHAUSTED part 269/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=270 pid=16782 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=4656973
+EXHAUSTED part 270/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=271 pid=17381 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=7464824
+EXHAUSTED part 271/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=272 pid=17393 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=6604191
+EXHAUSTED part 272/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=273 pid=17412 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=8551587
+EXHAUSTED part 273/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=274 pid=17574 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=6647903
+EXHAUSTED part 274/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=275 pid=18202 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=4694374
+EXHAUSTED part 275/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=276 pid=18267 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=5682492
+EXHAUSTED part 276/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=277 pid=18488 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=9134840
+EXHAUSTED part 277/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=278 pid=18517 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=5505495
+EXHAUSTED part 278/280: D(76,35)=NO in this part
+dsearch v3 N=76 T=35 split_depth=8 parts=280 idx=279 pid=18715 edges=901 (3-sets 24, 4-sets 877)
+UB: 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35
+tasks_total_seen=35511 my_tasks=126 top_nodes=9524 nodes=5371150
+EXHAUSTED part 279/280: D(76,35)=NO in this part

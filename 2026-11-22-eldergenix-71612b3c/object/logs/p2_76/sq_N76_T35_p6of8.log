@@ -1,0 +1,16 @@
+# start Sun Nov 22 17:09:28 UTC 2026 cmd: ./sq 76 35 8 8 6 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35 
+progress nodes=33554432 serial=15 ns=16 t=31s
+progress nodes=67108864 serial=31 ns=14 t=62s
+progress nodes=100663296 serial=47 ns=18 t=96s
+progress nodes=134217728 serial=55 ns=16 t=161s
+progress nodes=167772160 serial=71 ns=16 t=217s
+progress nodes=201326592 serial=87 ns=16 t=317s
+progress nodes=234881024 serial=103 ns=14 t=411s
+progress nodes=268435456 serial=119 ns=14 t=497s
+progress nodes=301989888 serial=135 ns=14 t=594s
+progress nodes=335544320 serial=159 ns=12 t=669s
+progress nodes=369098752 serial=175 ns=14 t=755s
+progress nodes=402653184 serial=199 ns=16 t=848s
+N=76 T=35 candidates_after_N=75
+EXHAUSTED N=76 T=35 D=8 P=8 part=6 nodes=417389389 serials=212 time=885s
+# exit=0 end Sun Nov 22 17:24:13 UTC 2026

@@ -1,0 +1,19 @@
+# start Sun Nov 22 16:46:46 UTC 2026 cmd: ./bb2 76 35 8 8 7 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35 
+progress nodes=16777216 k=41 c=18 t=36s
+progress nodes=33554432 k=34 c=16 t=74s
+progress nodes=50331648 k=42 c=14 t=112s
+progress nodes=67108864 k=42 c=14 t=147s
+progress nodes=83886080 k=41 c=16 t=190s
+progress nodes=100663296 k=41 c=14 t=232s
+progress nodes=117440512 k=43 c=16 t=273s
+progress nodes=134217728 k=39 c=16 t=315s
+progress nodes=150994944 k=38 c=14 t=351s
+progress nodes=167772160 k=39 c=14 t=391s
+progress nodes=184549376 k=39 c=16 t=432s
+progress nodes=201326592 k=38 c=14 t=475s
+progress nodes=218103808 k=44 c=14 t=516s
+progress nodes=234881024 k=44 c=12 t=556s
+progress nodes=251658240 k=45 c=14 t=595s
+supports=901 triples=24 quads=877 nonminimal_pairs=0
+EXHAUSTED N=76 T=35 split=8 parts=8 part=7 nodes=267535005 leaves_at_split=212 time=631s
+# exit=0 end Sun Nov 22 16:57:17 UTC 2026

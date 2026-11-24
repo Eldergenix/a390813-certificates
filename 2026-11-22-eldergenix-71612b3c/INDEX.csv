@@ -1,0 +1,2 @@
+target_id,cell,value,table_value,table_fetched_utc,file,sha256
+erdos-773-sidon-squares-next-term,"A390813 n = 76: largest valid set containing 76 (partial win p2)","34 < a(76) = 35","absent (OEIS comment covers n <= 68, only n = 32)",2026-11-22T21:18:51Z,object/a_p2_n76.json,71612b3ce7e8a1738a9010fecd2cfc3bd26969025aa1b54855b21528d232bb6b

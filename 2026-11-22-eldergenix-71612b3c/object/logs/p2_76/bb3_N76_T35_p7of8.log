@@ -1,0 +1,32 @@
+# start Sun Nov 22 16:45:52 UTC 2026 cmd: ./bb3 76 35 8 8 7 1 2 3 4 5 6 6 7 8 9 9 9 10 10 11 12 12 13 13 13 14 14 14 15 16 17 17 17 17 18 19 19 19 20 20 20 21 21 22 22 22 22 23 24 24 24 24 25 25 26 26 27 27 27 27 28 28 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 34 34 35 
+progress N=76 T=35 nodes=16777216 subtrees=8 |S|=14 time=8.8 S: 76 75 74 73 72 71 66 65 56 55 54 45 43 41
+progress N=76 T=35 nodes=33554432 subtrees=16 |S|=18 time=17.7 S: 76 75 74 73 72 67 66 64 63 62 60 54 51 50 48 47 43 42
+progress N=76 T=35 nodes=50331648 subtrees=16 |S|=16 time=26.6 S: 76 75 74 73 72 67 60 58 57 55 52 50 49 48 46 41
+progress N=76 T=35 nodes=67108864 subtrees=16 |S|=14 time=35.3 S: 76 75 74 73 72 65 63 61 60 54 52 50 49 43
+progress N=76 T=35 nodes=83886080 subtrees=24 |S|=16 time=44.0 S: 76 75 74 73 71 67 62 60 58 56 54 53 51 48 45 42
+progress N=76 T=35 nodes=100663296 subtrees=32 |S|=14 time=53.2 S: 76 75 74 73 67 66 60 59 58 56 54 50 48 47
+progress N=76 T=35 nodes=117440512 subtrees=32 |S|=12 time=62.4 S: 76 75 74 73 65 62 60 57 56 52 50 47
+progress N=76 T=35 nodes=134217728 subtrees=40 |S|=16 time=71.2 S: 76 75 74 72 71 67 64 62 60 57 55 54 52 47 45 39
+progress N=76 T=35 nodes=150994944 subtrees=40 |S|=14 time=80.0 S: 76 75 74 72 71 65 64 62 61 60 59 56 55 53
+progress N=76 T=35 nodes=167772160 subtrees=48 |S|=14 time=89.2 S: 76 75 74 72 67 66 62 57 53 52 50 49 45 44
+progress N=76 T=35 nodes=184549376 subtrees=48 |S|=16 time=98.2 S: 76 75 74 72 66 64 63 62 61 58 57 55 54 42 40 39
+progress N=76 T=35 nodes=201326592 subtrees=56 |S|=16 time=107.3 S: 76 75 74 71 67 65 64 62 60 58 54 48 45 43 41 40
+progress N=76 T=35 nodes=218103808 subtrees=64 |S|=14 time=116.7 S: 76 75 74 67 66 65 62 61 60 56 49 48 44 42
+progress N=76 T=35 nodes=234881024 subtrees=72 |S|=14 time=126.1 S: 76 75 73 72 71 67 63 62 60 59 52 49 47 44
+progress N=76 T=35 nodes=251658240 subtrees=80 |S|=14 time=135.9 S: 76 75 73 72 67 66 65 64 61 57 52 49 48 39
+progress N=76 T=35 nodes=268435456 subtrees=80 |S|=12 time=145.3 S: 76 75 73 72 67 63 62 61 53 51 50 46
+progress N=76 T=35 nodes=285212672 subtrees=80 |S|=16 time=154.7 S: 76 75 73 72 65 63 61 59 58 56 54 51 46 42 40 36
+progress N=76 T=35 nodes=301989888 subtrees=88 |S|=14 time=163.8 S: 76 75 73 71 65 64 63 60 58 57 56 54 45 39
+progress N=76 T=35 nodes=318767104 subtrees=104 |S|=14 time=172.3 S: 76 75 72 71 67 66 63 62 55 54 53 45 43 41
+progress N=76 T=35 nodes=335544320 subtrees=104 |S|=12 time=180.6 S: 76 75 72 71 66 62 60 59 57 56 54 52
+progress N=76 T=35 nodes=352321536 subtrees=120 |S|=16 time=189.3 S: 76 75 71 67 66 65 63 62 61 59 57 56 54 51 50 42
+progress N=76 T=35 nodes=369098752 subtrees=128 |S|=14 time=199.2 S: 76 74 73 72 71 70 65 62 60 52 51 50 47 44
+progress N=76 T=35 nodes=385875968 subtrees=136 |S|=16 time=209.5 S: 76 74 73 72 70 66 64 62 57 56 55 50 49 46 45 43
+progress N=76 T=35 nodes=402653184 subtrees=144 |S|=16 time=220.5 S: 76 74 73 71 70 64 63 59 54 53 50 49 45 44 43 42
+progress N=76 T=35 nodes=419430400 subtrees=160 |S|=16 time=231.2 S: 76 74 72 71 70 67 66 63 55 54 49 46 45 44 38 37
+progress N=76 T=35 nodes=436207616 subtrees=168 |S|=14 time=241.6 S: 76 74 72 70 67 66 65 64 63 60 55 46 45 44
+progress N=76 T=35 nodes=452984832 subtrees=168 |S|=16 time=251.8 S: 76 74 72 70 66 65 61 59 57 55 54 53 52 49 48 47
+progress N=76 T=35 nodes=469762048 subtrees=176 |S|=16 time=262.0 S: 76 74 71 70 66 63 61 58 53 52 50 48 45 44 37 36
+progress N=76 T=35 nodes=486539264 subtrees=192 |S|=14 time=272.7 S: 76 73 72 71 66 63 61 58 56 55 51 46 43 40
+EXHAUSTED N=76 T=35 nodes=498773253 time=281.19 D=8 P=8 part=7 subtrees=212
+# exit=0 end Sun Nov 22 16:50:34 UTC 2026
